@@ -1,5 +1,5 @@
 # News-Group-Indentification-Using-SSL
-Text classification task to classify newsgroups using a Semi-Supervised machine learning algorithm.
+Semi-Supervised machine learning algorithm - Expectation Maximization (EM) is used to classify newsgroups.
 
 Steps to run the model:
 
