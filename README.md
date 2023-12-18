@@ -1,4 +1,5 @@
 # News-Group-Indentification-Using-SSL
+Text classification task to classify newsgroups using a Semi-Supervised machine learning algorithm.
 
 Steps to run the model:
 
